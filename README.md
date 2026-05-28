@@ -1,1 +1,9 @@
-# jscott8505.github.io
+# Jazzmine S
+
+## Introduction
+
+I am currently attending Deep Dive Coding Java + Android Bootcamp. I am hoping to get a job in the field after graduating and having the ability to work from home part while my son is still young. 
+
+## Current projets
+
+## Links
