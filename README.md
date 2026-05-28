@@ -6,4 +6,7 @@ I am currently attending Deep Dive Coding Java + Android Bootcamp. I am hoping t
 
 ## Current projets
 
+Hello World: Java console application
+
+Hello World: Andriod app
 ## Links
