@@ -6,7 +6,7 @@
 
 ## Current projets
 
-   Hello World: Java console application
+   [Hello World: Java console application]({git@github.com:dd-java-kotlin-23/hello-world-jscott8505.git})
 
    Hello World: Andriod app
 
