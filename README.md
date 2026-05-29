@@ -6,10 +6,10 @@
 
 ## Current projets
 
- Hello World: Java console application
+ *Hello World: Java console application
 
- Hello World: Andriod app
+ *Hello World: Andriod app
 
 ## Links
 
- Github {https://github.com/jscott8505}
+ [Github]{https://github.com/jscott8505}
